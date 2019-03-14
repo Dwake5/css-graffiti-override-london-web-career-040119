@@ -1,4 +1,6 @@
-/* write your override styles here */
+/* This exercise can be done very simply by copy pasting the first line
+ of code that comes up when you hover over something indev tools and the
+putting body in front of it */
 #wall .tag-1 {
   display:none;
 }
